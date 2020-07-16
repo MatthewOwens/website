@@ -1,23 +1,7 @@
----
-layout: post
-title:  "cecse deliberations"
-tags:
-  - cecse
-  - cecs
-  - clogs
-  - c
-  - programming
-hero:  https://owens.tech/uploads/programming-hero.jpg
-overlay: purple
-published: true
-
----
 # Deliberations on cecse, the sexy game engine.
-{: .lead}
-<!–-break-–>
 Over the past few months, I've been working on [cecse][cecse-gh], a game engine
 built on [cecs][cecs-gh].
-<!–-break-–>
+
 Overall architecture for this has gone from having seperate git submodules for
 cecs and cecse, to bringing cecs in as part of the cecse repo, to seperating out
 cecse into a GitHub organisation as I restarted with the intention of a complete
