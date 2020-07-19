@@ -19,3 +19,44 @@ header {
 	color: #000;
 	text-align:center;
 }
+
+.nav{
+    padding-left:0;
+    margin-bottom:0;
+    list-style:outside none none
+}
+.nav::after{
+    display:table;
+    content:" ";
+    clear:both
+}
+.nav>li{
+    position:relative;
+    display:block
+}
+.nav>li>a{
+    position:relative;
+    display:block;
+    padding:10px 15px;
+    border-bottom:1px solid #333
+}
+.nav>li>a:focus,.nav>li>a:hover{
+    text-decoration:none;
+    background-color:#171717;
+    border-bottom:1px solid #cee318
+}
+.nav-tabs{
+    border-bottom:1px solid #333
+}
+.nav-tabs>li{
+    float:left;
+    margin-bottom:-1px
+}
+.nav-tabs>li>a{
+    margin-right:2px;
+    line-height:1.42857
+}
+.nav-tabs>li.active>a{
+    cursor:default;
+    border-bottom:1px solid #cee318
+}
