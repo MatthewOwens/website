@@ -13,7 +13,7 @@ printf '\t<atom:link href="https://owens.tech/rss.xml" rel="self" type="applicat
 # generate
 
 printf '\n\n'
-find posts/ -type f -exec sh -c "scripts/gen_feed_item.sh {}" \;
+find posts/ -type f -exec sh -c "scripts/gen_feed_item.sh {} $1" \;
 printf '\n\n'
 
 printf '</channel>\n'
