@@ -4,7 +4,8 @@ body {
 	background-color: #1c1c1c;
 	color: #aaaaaa;
 	overflow-y:scroll;
-	margin-right:.4em;
+	margin:.4em;
+	width:80%;
 }
 
 a {
@@ -19,6 +20,7 @@ header {
 	background-color: #2d2d2d;
 	color: #000;
 	text-align:center;
+	margin:auto;
 }
 
 .nav{
