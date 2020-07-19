@@ -1,4 +1,12 @@
 body {
+	font-family:Monaco,Lucidia Console,Liberation Mono, DejaVu Sans Mono, serif;
+	font-size:100%;
 	background-color: #1c1c1c;
 	color: #aaaaaa;
+	overflow-y:scroll;
+}
+
+a {
+	color:#b35050;
+	text-decoration:none;
 }
