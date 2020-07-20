@@ -53,7 +53,7 @@ header h1 {
 }
 .nav-tabs{
     border-bottom:1px solid #333;
-    font-size: 1.5vmax;
+    font-size: 1vmax;
 }
 .nav-tabs>li{
     float:left;
