@@ -52,7 +52,8 @@ header h1 {
     border-bottom:1px solid #b35050
 }
 .nav-tabs{
-    border-bottom:1px solid #333
+    border-bottom:1px solid #333;
+    font-size: 2em;
 }
 .nav-tabs>li{
     float:left;
