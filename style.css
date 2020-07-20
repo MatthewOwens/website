@@ -72,3 +72,10 @@ header h1 {
 #rsslink {
 	float:right
 }
+img{
+    display:block;
+    padding:8px;
+    border-radius:4px;
+    margin:auto;
+    max-width:50%
+}
