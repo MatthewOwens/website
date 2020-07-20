@@ -8,4 +8,6 @@ title=$(scripts/post_title.sh $1)
 # seperator to '/' for sed
 sed "s|TITLE|$title|" includes/head.html
 cat includes/header.html
+echo '<div id="post">'
 markdown $1
+echo '</div>'
