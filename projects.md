@@ -13,6 +13,8 @@ on the project's [github page](https://github.com/MatthewOwens/cecs)
 A comprehensive, extensible c logging system. More information can be found
 on the project's [github page](https://github.com/MatthewOwens/clogs)
 
+---
+
 ## Historic
 ### Fall of Ferald
 A prototype strategy RPG game built with C++ and SFML -
