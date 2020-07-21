@@ -6,6 +6,7 @@ body {
 	overflow-y:scroll;
 	margin:4em;
 	width:80%;
+	margin:auto;
 }
 
 a {
@@ -13,7 +14,25 @@ a {
 	text-decoration:none;
 }
 a:hover {
-	color:#b4f;
+	color:#f39090;
+}
+
+#post-list {
+	//background-color:aqua;
+	margin:auto;
+	padding:2em;
+	border-bottom:1px solid #333
+}
+
+#post-list-item {
+    //background-color: green;
+    width:80%;
+    margin:auto;
+    padding:.2em
+}
+
+#post-list-item:hover {
+	background-color: #2d2d2d;
 }
 
 header {
