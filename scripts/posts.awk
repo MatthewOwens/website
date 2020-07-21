@@ -12,5 +12,5 @@ BEGIN {
 }
 
 END {
-	print "</div">
+	print "</div>"
 }
