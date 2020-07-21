@@ -17,15 +17,19 @@ a:hover {
 	color:#f39090;
 }
 
-#post-list {
-	//background-color:aqua;
+#about-section {
 	margin:auto;
 	padding:2em;
-	border-bottom:1px solid #333
+	border-bottom:1px solid #333;
+}
+
+#post-list {
+	margin:auto;
+	padding:2em;
+	border-bottom:1px solid #333;
 }
 
 #post-list-item {
-    //background-color: green;
     width:80%;
     margin:auto;
     padding:.2em
@@ -98,5 +102,5 @@ img{
     padding:8px;
     border-radius:4px;
     margin:auto;
-    max-width:50%
+    max-width:25%
 }
