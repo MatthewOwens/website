@@ -27,6 +27,7 @@ a:hover {
 	margin:auto;
 	padding:2em;
 	border-bottom:1px solid #333;
+	font-size:inherit;
 }
 
 #post-list-item {
