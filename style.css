@@ -38,6 +38,7 @@ a:hover {
 header {
 	color: #aaa;
 	text-align:center;
+	padding:1em;
 }
 
 header h1 {
@@ -47,7 +48,7 @@ header h1 {
 .nav{
     padding-left:0;
     margin-bottom:0;
-    list-style:outside none none
+    list-style:outside none none;
     text-align:center;
 }
 .nav::after{
