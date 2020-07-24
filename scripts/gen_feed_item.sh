@@ -3,7 +3,7 @@
 
 HTMLPATH=$(echo $1 | sed 's/\.md$/.html/')
 TITLE=$(scripts/post_title.sh $1)
-BODY=$(markdown $1 | sed -e 's/&rsquo;/'/g -e 's/&lsquo;//g')
+BODY=$(markdown $1 | sed -e "s/&[rl]squo;/\'"/g -e 's/&[rl]dquo;/\"/g')
 DATE=$(git log -1 --pretty="format:%ad" $1)
 
 echo "<item>"
