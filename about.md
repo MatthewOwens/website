@@ -18,7 +18,7 @@ building out my own engine in C after escaping C++. Some of my earlier
 [projects](https://owens.tech/projects) have been more immediately impressive
 (i.e. playable), but I just grew to really dislike working in C++ and with other
 people's libraries. I also really enjoy the fact that if I'm working with
-straight c, and something *breaks* - it's going to be my fault.
+straight C, and something *breaks* - it's going to be my fault.
 That being said, I think I'll rely on OpenGL for graphics rendering. I'm not
 quite that masochistic.
 
