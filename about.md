@@ -1,8 +1,8 @@
 <img
     class="me"
     alt="Matthew Owens"
-    src="/assets/me.webp"
-    srcset="/assets/me.webp"
+    src="/assets/me.png"
+    srcset="/assets/me.png"
 />
 
 # About Me
