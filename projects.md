@@ -13,7 +13,7 @@ Most of my gamedev progress posts can be found under
 
 There's also a [website](https://AbyssalThistle.com),
 dead [instagram](https://twitter.com/AbssalThistle), and a page up on
-[itch](https://itch.io/AbyssalThistle).
+[itch](https://abyssalthistle.itch.io).
 
 #### vector
 A simple c implementation of dynamic arrays,
