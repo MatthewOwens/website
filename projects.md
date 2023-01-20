@@ -2,8 +2,6 @@
 
 ### Active:
 
-#### Lich Lifts
-A bullet hell about stealing souls an getting swole!
 <div class="project">
     <img
         alt="Lich Lifts Title"
@@ -11,6 +9,7 @@ A bullet hell about stealing souls an getting swole!
         srcset="/assets/lich_lifts_title_slice.png"
     />
 </div>
+A bullet hell about stealing souls an getting swole!
 More on: [Twitter](https://twitter.com/AbyssalThistle)
 
 #### Abyssal Thistle

@@ -42,10 +42,6 @@ hr {
     padding:.2em
 }
 
-.project img {
-	width: 100%;
-}
-
 #post-list-item:hover {
 	background-color: #2d2d2d;
 }
@@ -108,10 +104,17 @@ header h1 {
 #rsslink {
 	float:right
 }
+
 img{
-    display:block;
-    padding:8px;
-    border-radius:4px;
-    margin:auto;
-    max-width:25%
+    display: block;
+    padding: 8px;
+    border-radius: 4px;
+    margin: auto;
+    max-width: 25%;
 }
+
+.project img {
+	width: 100%;
+	max-width: 100%;
+}
+
