@@ -15,7 +15,7 @@ much prefer it to whatever's going on above ground.
 
 I like making games, with far too large a scope. As a result, I am currently
 building out my own engine in C after escaping C++. Some of my earlier
-[projects](https://owens.tech/projects) have been more immediately impressive
+[projects](https://owens.tech/projects.html) have been more immediately impressive
 (i.e. playable), but I just grew to really dislike working in C++ and with other
 people's libraries. I also really enjoy the fact that if I'm working with
 straight C, and something *breaks* - it's going to be my fault.
