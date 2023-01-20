@@ -12,7 +12,7 @@ Most of my gamedev progress posts can be found under
 [Abyssal Thistle on Twitter](https://twitter.com/AbyssalThistle).
 
 There's also a [website](https://AbyssalThistle.com),
-dead [instagram](https://twitter.com/AbssalThistle), and a page up on
+dead [instagram](https://instagram.com/AbssalThistle), and a page up on
 [itch](https://abyssalthistle.itch.io).
 
 #### vector
