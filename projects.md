@@ -4,7 +4,9 @@
 
 #### Lich Lifts
 A bullet hell about stealing souls an getting swole!
-![Lich Lifts Title](/assets/lich_lifts_title_slice.png "Lich Lifts")
+<div class="project">
+    ![Lich Lifts Title](/assets/lich_lifts_title_slice.png "Lich Lifts")
+</div>
 More on: [Twitter](https://twitter.com/AbyssalThistle)
 
 #### Abyssal Thistle
