@@ -18,6 +18,14 @@ a:hover {
 	color:#f39090;
 }
 
+p {
+	margin-bottom: 3em;
+}
+
+h4 {
+	margin-bottom: 1em;
+}
+
 hr {
     border: 1em;
     height: 1px;
