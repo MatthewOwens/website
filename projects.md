@@ -1,13 +1,13 @@
 # Projects
 
-## Active:
+### Active:
 
-### Untitled Dungeon Game
-Pretty much all of my free time recently has been going into Untitled Dungeon
-Game, frequent progress posting can be found on
-[twitter](https://twitter.com/AbyssalThistle)
+#### Lich Lifts
+A bullet hell about stealing souls an getting swole!
+![Lich Lifts Title](/assets/lich_lifts_title_slice.png "Lich Lifts")
+More on: [Twitter](https://twitter.com/AbyssalThistle)
 
-### Abyssal Thistle
+#### Abyssal Thistle
 Most of my gamedev progress posts can be found under
 [Abyssal Thistle on Twitter](https://twitter.com/AbyssalThistle).
 
@@ -27,7 +27,12 @@ on the project's [github page](https://github.com/MatthewOwens/clogs)
 ---
 
 
-### Historic
+### Historic:
+#### Untitled Dungeon Game
+Pretty much all of my free time recently has been going into Untitled Dungeon
+Game, frequent progress posting can be found on
+[twitter](https://twitter.com/AbyssalThistle)
+
 #### cecs
 A small entity component system, written in c. More information can be found
 on the project's [github page](https://github.com/MatthewOwens/cecs)
